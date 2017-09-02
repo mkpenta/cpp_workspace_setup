@@ -1,2 +1,2 @@
 # cpp_workspace_setup
-These are the setup files for a c9 based classroom I am testing out.
+These files and this workspace are intended to act as starting point for using Cloud9 in my classroom.
